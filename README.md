@@ -2,7 +2,7 @@
 Tensorflow implementation of MGSANet: Multi-Granularity Scale-Aware Networks for Hard Pixels Segmentation of Pulmonary Nodules
 
 # 🔥NEWS🔥
--[June 16, 2021] Accepted for publication in the journal "Biomedical Signal Processing and Control"
+-[2021/06/16] Accepted for publication in the journal "Biomedical Signal Processing and Control"
 
 # Requirements
 Please, install the following packages
