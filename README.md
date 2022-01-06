@@ -22,15 +22,13 @@ If you have any questions about our work, please do not hesitate to contact us b
 ## Citation
 - If you find this work is helpful, please cite our paper
 ```
-@article{WANG2021102890,
-title = {Multi-granularity scale-aware networks for hard pixels segmentation of pulmonary nodules},
-journal = {Biomedical Signal Processing and Control},
-volume = {69},
-pages = {102890},
-year = {2021},
-issn = {1746-8094},
-doi = {https://doi.org/10.1016/j.bspc.2021.102890},
-url = {https://www.sciencedirect.com/science/article/pii/S1746809421004870},
-author = {Kun Wang and Xiangbo Zhang and Xiaohong Zhang and Sheng Huang and Jingqin Li and Luwen HuangFu},
+@article{wang2021multi,
+  title={Multi-granularity scale-aware networks for hard pixels segmentation of pulmonary nodules},
+  author={Wang, Kun and Zhang, Xiangbo and Zhang, Xiaohong and Huang, Sheng and Li, Jingqin and HuangFu, Luwen},
+  journal={Biomedical Signal Processing and Control},
+  volume={69},
+  pages={102890},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
